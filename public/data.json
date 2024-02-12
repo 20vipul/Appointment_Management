@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "firstName":"John",
+    "lastName":"Doe",
+    "aptDate":"2017-11-29, 13:30",
+    "aptNotes":"Hi, I'm John Doe."
+  },
+
+  {
+    "id": 1,
+    "firstName":"Jane",
+    "lastName":"Dove",
+    "aptDate":"2017-11-30, 12:00",
+    "aptNotes":"Hi, I'm Jane Dove."
+  },
+
+  {
+    "id": 2,
+    "firstName":"Adam",
+    "lastName":"Smith",
+    "aptDate":"2018-01-01, 11:30",
+    "aptNotes":"Hi, I'm Adam Smith."
+  },
+
+  {
+    "id": 3,
+    "firstName":"Ava",
+    "lastName":"Swan",
+    "aptDate":"2022-01-15, 16:00",
+    "aptNotes":"Hi, I'm Ava Swan."
+  },
+  {
+    "id": 4,
+    "firstName":"Jane",
+    "lastName":"Doe",
+    "aptDate":"2017-11-30, 12:00",
+    "aptNotes":"Hi, I'm Jane Doe."
+  }
+]
